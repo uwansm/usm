@@ -2,8 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=1108800,AVERAGE-BANDWIDTH=1103800,RESOLUTION=854x480,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
-https://be2.serv2.cam/streambang/hls/2/stream.m3u8
+https://be2.serv4.cam/streambang/hls/2/stream.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2648800,AVERAGE-BANDWIDTH=2643800,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
-https://be2.serv2.cam/streambang/hls/1/stream.m3u8
+https://be2.serv4.cam/streambang/hls/1/stream.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=5398800,AVERAGE-BANDWIDTH=5393800,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2"
-https://be2.serv2.cam/streambang/hls/0/stream.m3u8
+https://be2.serv4.cam/streambang/hls/0/stream.m3u8
